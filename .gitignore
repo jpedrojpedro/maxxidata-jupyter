@@ -141,3 +141,6 @@ inputs
 
 # Meetings / Presentations
 meetings/*.pptm
+
+# Environment variables
+.env
