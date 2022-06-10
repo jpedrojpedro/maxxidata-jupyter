@@ -1,3 +1,8 @@
 jupyterlab==3.4.2
 pandas==1.4.2
 seaborn==0.11.2
+boto3==1.24.2
+python-dotenv==0.20.0
+sharepy==2.0.0
+SharePlum==0.5.1
+requests_ntlm==1.1.0
